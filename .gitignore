@@ -1,0 +1,18 @@
+# Original datasets
+*.xlsx
+*.xls
+*.csv
+
+# Generated reports
+*.pdf
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
